@@ -1,4 +1,4 @@
-# 2D GAME
+# 2D Survival Maze GAME
 # 🌲 Survival Maze Game
 
 A 2D survival game built with C++ and SFML. Navigate through multiple levels, avoid enemies, collect coins, and survive!
